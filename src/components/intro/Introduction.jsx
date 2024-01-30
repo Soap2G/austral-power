@@ -11,9 +11,6 @@ const Introduction = () => {
           <h1 style={{ fontWeight: '500' }}>
             Austral Power
           </h1>
-          {/* <p style={{ fontSize: "1.7rem" }}>
-            Compravendita di beni immobili
-          </p> */}
 		  </Parallax>
         </div>
 		

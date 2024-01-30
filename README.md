@@ -1,6 +1,6 @@
 # Scott SRL website [![pages-build-deployment](https://github.com/Soap2G/scott-website/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Soap2G/scott-website/actions/workflows/pages/pages-build-deployment)
 
-https://soap2g.github.io/scott-website
+https://soap2g.github.io/austral-power
 
 
 ### Getting the code
