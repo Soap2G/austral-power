@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/austral-power/static/css/main.c8f05756.css",
-    "main.js": "/austral-power/static/js/main.d8a81d03.js",
+    "main.js": "/austral-power/static/js/main.5769f5f1.js",
     "static/js/787.0797e605.chunk.js": "/austral-power/static/js/787.0797e605.chunk.js",
     "index.html": "/austral-power/index.html",
     "main.c8f05756.css.map": "/austral-power/static/css/main.c8f05756.css.map",
-    "main.d8a81d03.js.map": "/austral-power/static/js/main.d8a81d03.js.map",
+    "main.5769f5f1.js.map": "/austral-power/static/js/main.5769f5f1.js.map",
     "787.0797e605.chunk.js.map": "/austral-power/static/js/787.0797e605.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c8f05756.css",
-    "static/js/main.d8a81d03.js"
+    "static/js/main.5769f5f1.js"
   ]
 }
