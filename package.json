@@ -2,7 +2,7 @@
   "name": "scott-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/",
+  "homepage": "https://soap2g.github.io/austral-power/",
   "dependencies": {
     "node-fetch": "^2.6.1",
     "@emailjs/browser": "",
