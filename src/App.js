@@ -1,6 +1,6 @@
 import React, { useRef,  useState, useEffect } from 'react';
 import { ParallaxProvider } from 'react-scroll-parallax';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 import Introduction from './components/intro/Introduction';
 import Footer from "./components/Footer.js";
 import Header from "./components/Header.js";
@@ -53,7 +53,6 @@ function App() {
                             initial={false}
                             mode='wait'
                             >
-                                <Router basename="/austral-power">
                                 <Routes 
                                 location={location}
                                 key={location.pathname}
@@ -71,7 +70,6 @@ function App() {
                                         </>
                                     } />
                                 </Routes>
-                                </Router>
                             </AnimatePresence>
                     </div>
                     
